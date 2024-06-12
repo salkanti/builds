@@ -1,0 +1,15 @@
+build c++ project  - done
+install executables - done
+include subprojects - done
+Logging  - done
+Crosscompilation - 
+Thirdparty packages
+hierarchical cmake files
+Multiple projects with inter dependency
+build static libraries
+build shared libraries
+platform independent cmake files
+packages and installation
+
+command:
+rm -rf bld; mkdir bld; cd bld; cmake ..; make install
